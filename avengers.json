@@ -1,0 +1,94 @@
+{
+  "data": [
+    {
+      "id": 2,
+      "username": "captain.america",
+      "photo": "https://i.pinimg.com/200x/31/9b/f2/319bf2713e5dbcd833c163228404f092.jpg",
+      "isLive": true
+    },
+    {
+      "id": 4,
+      "username": "black.widow",
+      "photo": "https://i.pinimg.com/200x/ec/45/d8/ec45d8114cd103169387d9d658aaceee.jpg",
+      "isLive": false
+    },
+    {
+      "id": 5,
+      "username": "ironman",
+      "photo": "https://i.pinimg.com/200x/86/c4/56/86c4562add592bec738079084a4995d2.jpg",
+      "isLive": false
+    },
+    {
+      "id": 1,
+      "username": "thor",
+      "photo": "https://i.pinimg.com/200x/d6/6b/6a/d66b6a620c0e67ae93e7700e62d5f510.jpg",
+      "isLive": true
+    },
+    {
+      "id": 7,
+      "username": "spiderman",
+      "photo": "https://i.pinimg.com/200x/18/03/ca/1803ca7faf17aebd43ae3d06e2128344.jpg",
+      "isLive": false
+    },
+    {
+      "id": 10,
+      "username": "hawkeye",
+      "photo": "https://i.pinimg.com/200x/c0/5a/1c/c05a1ce5b4d5f12c44294d1c966f69c7.jpg",
+      "isLive": false
+    },
+    {
+      "id": 8,
+      "username": "hulk",
+      "photo": "https://i.pinimg.com/200x/60/6b/da/606bdaba2eb60f42184e1cd5dbf9bd3f.jpg",
+      "isLive": false
+    },
+    {
+      "id": 3,
+      "username": "wanda.maximoffs",
+      "photo": "https://i.pinimg.com/200x/a0/8d/3f/a08d3f5ffdd05760e6db114114dd5433.jpg",
+      "isLive": true
+    },
+    {
+      "id": 9,
+      "username": "black.panther",
+      "photo": "https://i.pinimg.com/200x/b6/61/00/b66100c58de0208d032acec0a36f4fe6.jpg",
+      "isLive": false
+    },
+    {
+      "id": 6,
+      "username": "loki",
+      "photo": "https://i.pinimg.com/200x/f5/30/ed/f530ed3ad4fbd2ba3c468110dcd89e03.jpg",
+      "isLive": false
+    },
+    {
+      "id": 11,
+      "username": "okoye",
+      "photo": "https://i.pinimg.com/200x/76/af/65/76af6500b4685ec75e0fbd2cdda5b090.jpg",
+      "isLive": false
+    },
+    {
+      "id": 13,
+      "username": "antman",
+      "photo": "https://i.pinimg.com/200x/22/f9/36/22f936e6e257b136fbb35ec399eb5f9f.jpg",
+      "isLive": false
+    },
+    {
+      "id": 15,
+      "username": "shuri",
+      "photo": "https://i.pinimg.com/200x/9d/d2/b4/9dd2b42a07a399c51e96967d5b302476.jpg",
+      "isLive": false
+    },
+    {
+      "id": 12,
+      "username": "dr.strange",
+      "photo": "https://i.pinimg.com/200x/58/8f/39/588f3901f5b564ce881bc533b27439dc.jpg",
+      "isLive": false
+    },
+    {
+      "id": 14,
+      "username": "groot",
+      "photo": "https://64.media.tumblr.com/4cc28081fb968eab803fd8718377ec33/tumblr_pm2s7haCeJ1xspf1oo1_400.png",
+      "isLive": false
+    }
+  ]
+}
